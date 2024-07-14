@@ -1,8 +1,4 @@
-<h1 align="center">Auto Reff Pixelverse ( DWYOR )</h1>
 
-<img align="center" src="https://github.com/monteksz/pixelverse/assets/39762712/0d3e1f56-a28e-47f5-873e-280cd4c348b2">
-
-<h3 align="center">Tutorial How To Use This Bot</h3>
 
 1. Register https://dashboard.pixelverse.xyz/
 2. git clone https://github.com/monteksz/pixelverse
@@ -17,9 +13,3 @@
 11. Pilih Y
 12. DONE
 13. Ingat DWYOR.
-
-- **Here To get reff code**
-<img align="center" src="https://github.com/monteksz/PixelTap/blob/main/d.png">
-
-<h3 align="left">Languages</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
